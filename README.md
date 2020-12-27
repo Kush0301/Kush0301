@@ -8,6 +8,6 @@ More about me:
 - 💬 I have worked in the field of Mobile Robotics, particularly in the field of Localization, Multiview Geometry, Computer Vision and Sensor Fusion.
 - 😄 I’m currently working on stablizing a [UAV during its transition from an Outdoor Environment to a GPS-denied environment](https://github.com/Kush0301/UAV-Localization) and [Sparse 3D Reconstruction](https://github.com/Kush0301/Structure-from-Motion).
 
-Feel Free to reach me at
+Feel Free to reach me at\
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kushagra-srivastava-8ba9801a3/)
 &nbsp;
