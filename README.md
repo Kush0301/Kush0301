@@ -18,4 +18,3 @@ Feel Free to reach me at
 &nbsp;
 
 [![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kush0301)](https://github.com/Kush0301/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush0301)](https://github.com/Kush0301/github-readme-stats)
