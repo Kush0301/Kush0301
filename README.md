@@ -11,3 +11,5 @@ More about me:
 Feel Free to reach me at\
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kushagra-srivastava-8ba9801a3/)
 &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)Gmail](mailto:kushagra2000@gmail.com)
+&nbsp;
