@@ -16,3 +16,5 @@ Feel Free to reach me at
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagra2000@gmail.com)
 &nbsp;
+
+[![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kush0301)](https://github.com/Kush0301/github-readme-stats)
