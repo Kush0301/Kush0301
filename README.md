@@ -9,7 +9,7 @@ More about me:
 - 😄 I’m currently working on stablizing a [UAV during its transition from an Outdoor Environment to a GPS-denied environment](https://github.com/Kush0301/UAV-Localization) and [Sparse 3D Reconstruction](https://github.com/Kush0301/Structure-from-Motion).
 
 Feel Free to reach me at\
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kushagra-srivastava-8ba9801a3/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-srivastava-8ba9801a3/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagra2000@gmail.com)
 &nbsp;
